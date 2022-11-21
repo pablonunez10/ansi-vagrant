@@ -1,0 +1,1 @@
+{"virtualbox":{"/Prueba/shared":{"guestpath":"/Prueba/shared","hostpath":"C:/Users/usuario/Desktop/Prueba/shared","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/usuario/Desktop/Prueba","disabled":false,"__vagrantfile":true}}}

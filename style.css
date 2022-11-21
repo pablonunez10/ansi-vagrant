@@ -1,0 +1,24 @@
+body{
+    
+    margin: 0px;
+    padding: 0px;
+    background-color: silver; 
+}
+h1{
+    color: cyan;
+    text-justify: auto;
+    text-align: unset;
+    display: flex;
+}
+h2 {
+    color: chartreuse;
+
+}
+h3{
+    color: seagreen;    
+}
+
+p{
+    color: blue;
+}
+
